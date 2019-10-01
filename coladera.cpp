@@ -1,2 +1,3 @@
 //Codigo de la coladera de Eratostenes
-#Include <iostream>
+#include <iostream>
+void mostrar(int v[], int n);
